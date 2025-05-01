@@ -1,8 +1,3 @@
-Great! Based on your progress and the assignment requirements from the PDF, here's a **simple and complete `README.md`** tailored to your project:
-
----
-
-```markdown
 # Pantheon Congestion Control Evaluation
 
 ## Overview
